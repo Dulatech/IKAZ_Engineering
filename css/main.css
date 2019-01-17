@@ -1,0 +1,31 @@
+
+#logo_pic {
+    width: 250px;
+    padding: 20px;
+}
+
+#nav-bar {
+    background-color: rgb(92, 92, 92);
+    padding: 5px;
+    color: white;
+}
+
+#oilpic {
+    width: 100%;
+    height: 400px;
+}
+
+#main {
+    width: 100%;
+    text-align: centre;
+
+}
+
+.allService{
+    display: inline-block;
+    padding: 30px;
+}
+
+#fff {
+    width: 350px;
+}
